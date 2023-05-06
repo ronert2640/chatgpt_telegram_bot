@@ -1,4 +1,4 @@
-# chatgpt__telegram_bot
+# chatgpt_telegram_bot
 
 requirement:
 
