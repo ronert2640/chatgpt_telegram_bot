@@ -1,5 +1,5 @@
 # chatgpt_telegram_bot
-less than 50 lines of python code
+
 
 requirement:
 
